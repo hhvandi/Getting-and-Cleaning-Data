@@ -71,7 +71,7 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-STEPS FOR TIDYING DATA
+Tidy data steps 
 a) Merge the training and the test sets to create one data set.
 b) Extract only the measurements on the mean and standard deviation for each measurement. 
 c) Use descriptive activity names to name the activities in the data set
