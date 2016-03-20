@@ -1,10 +1,3 @@
----
-title: "Getting and Cleaning Data Course Project"
-author: "Henry Vandi"
-date: "March 20, 2016"
-output: html_document
----
-
 Data Set Info
 =================
 
@@ -72,6 +65,8 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 Tidy data steps 
+=================
+
 a) Merge the training and the test sets to create one data set.
 b) Extract only the measurements on the mean and standard deviation for each measurement. 
 c) Use descriptive activity names to name the activities in the data set
@@ -81,3 +76,5 @@ e) Create a second, independent tidy data set with the average of each variable 
 
 
 ```
+
+
